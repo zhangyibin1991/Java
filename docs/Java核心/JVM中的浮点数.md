@@ -12,31 +12,31 @@
 		<th>双精度扩展指数集合</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>N</td>
+		<td>24</td>
+		<td>24</td>
+		<td>53</td>
+		<td>53</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>K</td>
+		<td>8</td>
+		<td>&ge;11</td>
+		<td>11</td>
+		<td>&ge;15</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>E<sub><small>max</small></sub></td>
+		<td>+127</td>
+		<td>&ge;+1023</td>
+		<td>+10.23</td>
+		<td>&ge;+16383</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>E<sub><small>min</small></sub></td>
+		<td>-126</td>
+		<td>&le;-1022</td>
+		<td>-1022</td>
+		<td>&le;-16382</td>
 	</tr>
 </table>
